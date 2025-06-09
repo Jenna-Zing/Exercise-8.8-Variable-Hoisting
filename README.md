@@ -6,6 +6,10 @@ Exercise Link: https://lessons.springboard.com/Hoisting-Exercise-fdb595e8d5c8403
 
 This exercise illustrates the concept of "Variable Hoisting". While interacting with the code, you can play with declaring variables with "let", "const", and "var".
 
+## How to run the code
+
+Run `cd variable-hoisting-code`, then `node time-travel.js`
+
 ## To summarize usage (based on Task 4):
 
 - var variables are hoisted — declared at the top, but initialized later.
